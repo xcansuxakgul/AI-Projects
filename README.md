@@ -3,6 +3,10 @@
 ## Machine Learning Projects
 
 
+## Deep Learning Projects 
+| **Topic** | **open in colab / kaggle / sagemaker studio lab / github** |
+|:------------:|:-------------------------------------------------:|
+| 8K Urban Sound Classification | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/xcansuxakgul/AI/tree/main/UrbanSoundClassification)
 ## Computer Vision Projects
 | **notebook** | **open in colab / kaggle / sagemaker studio lab** |
 |:------------:|:-------------------------------------------------:|
